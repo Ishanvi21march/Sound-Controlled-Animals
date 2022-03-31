@@ -1,0 +1,19 @@
+body
+{
+background-color:plum;
+}
+#name_of_objects
+{
+color:blue;
+}
+.html
+{
+    text-align: center;
+}
+
+#camera
+{
+    width:350px;
+    height: 300px;
+    border:2px dashed black;
+}
